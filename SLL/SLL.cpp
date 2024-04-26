@@ -31,3 +31,10 @@ void addNode() {
 		return;
 	}
 
+	Node* previous = START;
+	
+
+
+
+
+
